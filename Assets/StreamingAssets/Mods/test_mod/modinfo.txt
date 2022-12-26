@@ -1,0 +1,5 @@
+{
+    "modname" : "Test Mod",
+    "version" : "1.0",
+    "onlylocal" : "false"
+}

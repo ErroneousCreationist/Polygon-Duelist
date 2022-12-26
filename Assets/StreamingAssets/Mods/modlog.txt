@@ -1,0 +1,3 @@
+MODS LOG 
+LOADED MOD /Users/samuel/Documents/Clutter/Unity/My project/Assets/StreamingAssets/Mods/test_mod WITH 0 ERRORS. REPORT: '' SUCCESSFUL:True 
+MODS LOADED AND INSTANCED

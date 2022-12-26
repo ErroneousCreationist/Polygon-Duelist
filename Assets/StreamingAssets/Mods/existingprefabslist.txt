@@ -1,0 +1,52 @@
+KEY: boss_cannon - PREFAB NAME: Boss_Cannon
+KEY: boss_fish - PREFAB NAME: Boss_Fish
+KEY: boss_minotaur - PREFAB NAME: Boss_Minotaur
+KEY: boss_satan - PREFAB NAME: Boss_Satan
+KEY: boss_thing - PREFAB NAME: Boss_Thing
+KEY: boss_worm - PREFAB NAME: Boss_Worm
+KEY: enemy_charger - PREFAB NAME: Enemy_Horn
+KEY: enemy_zombie - PREFAB NAME: Enemy_Zombie
+KEY: enemy_shooter - PREFAB NAME: Enemy_Shooter
+KEY: enemy_supershooter - PREFAB NAME: Enemy_SuperShooter
+KEY: enemyproj_cannonboss - PREFAB NAME: CannonBoss_Bullet
+KEY: enemyproj - PREFAB NAME: EnemyProj
+KEY: enemyproj_satan - PREFAB NAME: SatanBoss_Proj
+KEY: enemyproj_thing - PREFAB NAME: ThingBoss_Proj
+KEY: fx_abduct - PREFAB NAME: AbductFX
+KEY: fx_smoke_black - PREFAB NAME: BlackSmokeFx
+KEY: fx_die - PREFAB NAME: DieFX
+KEY: fx_explode - PREFAB NAME: ExplodeFX
+KEY: fx_explode_big - PREFAB NAME: ExplodeFX_Big
+KEY: fx_firearea - PREFAB NAME: FireAreaFx
+KEY: fx_hit - PREFAB NAME: HitFx
+KEY: fx_teleport_minotaur - PREFAB NAME: MinotaurTeleportFX
+KEY: fx_pentagram_teleport - PREFAB NAME: PentagramTeleportFX
+KEY: fx_satanboss_damagearea - PREFAB NAME: SatanBossAreaFX
+KEY: fx_smoke - PREFAB NAME: SmokeFx
+KEY: fx_teleport - PREFAB NAME: TeleportFX
+KEY: fx_teleport_2 - PREFAB NAME: TeleportFX2
+KEY: concave_sandbag - PREFAB NAME: Concave_Sandbag
+KEY: concave_landmine - PREFAB NAME: Landmine
+KEY: concave_superturret - PREFAB NAME: SuperTurret
+KEY: concave_telepad - PREFAB NAME: Telepad
+KEY: concave_turret - PREFAB NAME: Turret
+KEY: gamemode_manager - PREFAB NAME: GamemodeController
+KEY: player_1 - PREFAB NAME: Player 1
+KEY: player_2 - PREFAB NAME: Player 2
+KEY: player_3 - PREFAB NAME: Player 3
+KEY: player_4 - PREFAB NAME: Player 4
+KEY: player_5 - PREFAB NAME: Player 5
+KEY: player_6 - PREFAB NAME: Player 6
+KEY: player_7 - PREFAB NAME: Player 7
+KEY: player_8 - PREFAB NAME: Player 8
+KEY: player_9 - PREFAB NAME: Player 9
+KEY: player_10 - PREFAB NAME: Player 10
+KEY: player_11 - PREFAB NAME: Player 11
+KEY: player_spectator - PREFAB NAME: Spectator
+KEY: proj_concave - PREFAB NAME: Concave_Bullet
+KEY: proj_diamond - PREFAB NAME: Diamond_Bullet
+KEY: proj_heptagon - PREFAB NAME: Hepta_Bullet
+KEY: proj_hexagon - PREFAB NAME: Hexagon_Missile
+KEY: proj_pentagon - PREFAB NAME: Pentagon_Bullet
+KEY: proj_square - PREFAB NAME: Square_Bullet
+KEY: proj_triangle - PREFAB NAME: Triangle_Bullet

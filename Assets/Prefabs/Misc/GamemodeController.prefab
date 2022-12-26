@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3698629207857816857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3698629207857816860}
+  - component: {fileID: 3698629207857816858}
+  - component: {fileID: -4459293338575271524}
+  m_Layer: 0
+  m_Name: GamemodeController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3698629207857816860
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3698629207857816857}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.7096763, y: -0.58591807, z: -4.8767943}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3698629207857816858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3698629207857816857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalObjectIdHash: 951099334
+  AlwaysReplicateAsRoot: 0
+  DontDestroyWithOwner: 0
+  AutoObjectParentSync: 1
+--- !u!114 &-4459293338575271524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3698629207857816857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea31e25e6b2ec47539ed487fdff09c59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGamemode: 100
+  Bosses:
+  - {fileID: 4439986878672444938, guid: 6743f6acbef414a62a5737392f4d535f, type: 3}
+  - {fileID: 4439986878672444938, guid: 5e87f3eba00834611ab05cf683a84f1e, type: 3}
+  - {fileID: 4439986878672444938, guid: a3a13047e3a4c4a1e9e529e6200139d9, type: 3}
+  - {fileID: 4439986878672444938, guid: 632b212d84a64478ab48bb0835c73b03, type: 3}
+  - {fileID: 4439986878672444938, guid: 47b11720226be41749028d2905f2fb42, type: 3}
+  - {fileID: 8342724812170478747, guid: ee5206f97013647afb1eba1453f6d3b8, type: 3}
+  Stage1Enemies:
+  - {fileID: 4439986878672444938, guid: 8fedb77eae93943cc8156307afddc496, type: 3}
+  - {fileID: 4439986878672444938, guid: 8fedb77eae93943cc8156307afddc496, type: 3}
+  - {fileID: 4439986878672444938, guid: f32378e267a894c8494839489bc73433, type: 3}
+  Stage2Enemies:
+  - {fileID: 4439986878672444938, guid: f32378e267a894c8494839489bc73433, type: 3}
+  - {fileID: 4439986878672444938, guid: f32378e267a894c8494839489bc73433, type: 3}
+  - {fileID: 4439986878672444938, guid: f32378e267a894c8494839489bc73433, type: 3}
+  - {fileID: 4439986878672444938, guid: 8fedb77eae93943cc8156307afddc496, type: 3}
+  - {fileID: 4439986878672444938, guid: 8fedb77eae93943cc8156307afddc496, type: 3}
+  - {fileID: 4439986878672444938, guid: 11e14ed5deeec4883ad5e04dd2f0a8ad, type: 3}
+  Stage3Enemies:
+  - {fileID: 4439986878672444938, guid: e3e6ad8b5679e467187bef8f20caeba6, type: 3}
+  - {fileID: 4439986878672444938, guid: 11e14ed5deeec4883ad5e04dd2f0a8ad, type: 3}
+  - {fileID: 4439986878672444938, guid: f32378e267a894c8494839489bc73433, type: 3}
